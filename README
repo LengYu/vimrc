@@ -1,6 +1,6 @@
 Installation:
 
-    git clone git://github.com/lengyu/vimrc.git ~/.vim
+    git clone git://github.com/LengYu/vimrc.git ~/.vim
 
 Create symlinks:
 
