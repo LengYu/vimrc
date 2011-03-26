@@ -56,6 +56,7 @@ if (has("gui_running"))
     set guioptions+=b
     colo blackboard
     set nowrap
+    set cursorline
 else
     colo ron
     set wrap
