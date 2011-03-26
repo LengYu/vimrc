@@ -18,6 +18,7 @@ set tw=78
 set lbr
 set fo+=mB
 
+syntax on
 " disable toolbar
 set go=
 
@@ -59,8 +60,4 @@ else
     colo ron
     set wrap
 endif
-syntax on
 
-"支持中文GB编码
-"let &termencoding=&encoding
-"set fileencodings=utf-8,gbk,ucs-bom,big5,cp936
