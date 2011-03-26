@@ -1,4 +1,10 @@
-" set nocp
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+
+"""""""""""""""""""""""""""""""""""
+"           TagList               "
+"""""""""""""""""""""""""""""""""""
+let Tlist_Use_Right_Window=1
 
 " Tab related
 set ts=4
