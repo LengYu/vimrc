@@ -18,7 +18,9 @@ set tw=78
 set lbr
 set fo+=mB
 
-syntax on
+syntax on  
+set nobackup
+
 " disable toolbar
 set go=
 
