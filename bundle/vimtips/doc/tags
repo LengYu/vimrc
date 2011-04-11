@@ -1,4 +1,3 @@
 :TipOfTheDay	totd.txt	/*:TipOfTheDay*
 totd-installation	totd.txt	/*totd-installation*
 totd.txt	totd.txt	/*totd.txt*
-vimtips.txt	../plugin/vimtips/vimtips.txt	/*vimtips.txt*
